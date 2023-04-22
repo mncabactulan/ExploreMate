@@ -1,0 +1,2 @@
+# ExploreMate
+Travel Buddy Application
